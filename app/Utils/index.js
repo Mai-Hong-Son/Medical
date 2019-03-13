@@ -1,0 +1,7 @@
+import { Dimensions } from 'react-native';
+
+export const g = {
+    WIDTH_SCREEN: Dimensions.get("window").width,
+    HEIGHT_SCREEN: Dimensions.get("window").height,
+    TOKEN: "bearer tQk1l9Fu3e8HYdJ67I4w9IkYxpya4LYpyjaS0-vNez_j5cRa3TvCwrxwb-j1JFRovX13KFBZJwmAJ5OP3i3Nt1f17h0-zfcUg88hi38d6oP0e4pN1QqVW_aYnqvZMeRY8saevSJ_Wn-kaVKGtv0uneFZVzoNHZ7zRY9g61EHYjSXheXiNXcetN6FjT6rIItyRdRFvigbgt1H9HMJKfgW96whVZyOWvrMLxtrF55Kp8EUKiQFjwuyL6TAbIiXbBtCsNqyCqg5iBijc6keNgPqRFpBe8HYTAYRWmXViO3eQHDZi18iGvZ4p95VUBS4f8wAVk3KtPo5KvriQ5IcQfpqVFJPJl2RIjuJP9DTU5r-24D9-B6fc710osylijWEIFaWBOsQ4rDWVqLZcopFbpNnCyhsGKIo4iFWlDPb_DWF-sWwLNymZJJ3T5Ao733QYAfirQV1VK1vdzW2lJmFjr1dQ4whSgLBgZkn7dUYBwksfwPXzKh4sfN7WG7QZwRkokZxZu3krTHOKXp9X5WDCL0_8w"
+}
